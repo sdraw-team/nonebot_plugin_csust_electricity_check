@@ -1,0 +1,3 @@
+# nonebot_plugin_csust_electricity_check
+
+Nonebot2插件 CSUST查宿舍电费
